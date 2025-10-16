@@ -36,7 +36,6 @@ pip install -r requirements.txt
 Please cite this repository and the associated manuscript as:
 
 Mazhar, K., & Dwivedi, P. (2025). Enhancing Clinical Trust in Brain Tumor MRI: A Meta-Analysis of AI Classification, Segmentation, and Explainability. *The Visual Computer*. Springer.  
-DOI: [to be added after acceptance]  
-Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXX  
-GitHub: https://github.com/BrainTumorXAI-Meta/TransparentMeta2025
+DOI: [to be added after acceptance]   
+GitHub: https://github.com/Kashifmazhar17/Enhancing-Clinical-Trust-in-Brain-Tumor-MRI-A-Meta-Analysis-
 
