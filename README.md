@@ -32,3 +32,11 @@ All data are drawn from previously published, publicly available studies (BraTS,
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+## Citation
+Please cite this repository and the associated manuscript as:
+
+Mazhar, K., & Dwivedi, P. (2025). Enhancing Clinical Trust in Brain Tumor MRI: A Meta-Analysis of AI Classification, Segmentation, and Explainability. *The Visual Computer*. Springer.  
+DOI: [to be added after acceptance]  
+Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXX  
+GitHub: https://github.com/BrainTumorXAI-Meta/TransparentMeta2025
+
